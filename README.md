@@ -10,9 +10,6 @@ A fun and interactive Snake Game built with HTML, CSS, and JavaScript. This game
 - **Pause and Restart**: The game can be paused at any time, and players can restart the game from the beginning.
 - **Responsive Design**: The game layout is designed to work on various screen sizes.
 
-## Getting Started
-
-To run the game locally on your machine, follow these simple steps:
 
 ### How It Works
 
